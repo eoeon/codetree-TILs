@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-            int a;
-            a = 5;
-            System.out.print(a);
+        System.out.print("97 - 13 = 84");
     }
 }
