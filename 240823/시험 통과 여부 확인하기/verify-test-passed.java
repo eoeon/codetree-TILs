@@ -11,7 +11,7 @@ public class Main {
         }
 
         else {
-            System.out.print(n + " more score");
+            System.out.print((100-n) + " more score");
         }
     }
 }
