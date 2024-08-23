@@ -6,7 +6,7 @@ public class Main {
 
         int a = sc.nextInt(), b = sc.nextInt();
         
-        if ( a < b ) {
+        if ( a <= b ) {
             System.out.println(b-a);
         };
 
