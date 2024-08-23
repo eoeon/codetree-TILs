@@ -11,6 +11,6 @@ public class Main {
 
         if(b > 25) {
             System.out.print("Obesity");
-        };
+        }
     }
 }
