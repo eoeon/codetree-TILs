@@ -6,7 +6,7 @@ public class Main {
 
         int n = sc.nextInt();
 
-        if ( n > 80 ) {
+        if ( n >= 80 ) {
             System.out.print("pass");
         }
 
