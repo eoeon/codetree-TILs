@@ -6,6 +6,6 @@ public class Main {
 
         int a = sc.nextInt();
 
-        System.out.println( a = a == 1 ? "t" : "f" );
+        System.out.println( a == 1 ? "t" : "f" );
     }
 }
