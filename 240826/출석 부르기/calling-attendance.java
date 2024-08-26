@@ -6,15 +6,15 @@ public class Main {
 
         int num = sc.nextInt();
 
-        if ( num = 1 ) {
+        if ( num == 1 ) {
             System.out.println("John");
         }
 
-        else if ( num = 2 ) {
+        else if ( num == 2 ) {
             System.out.println("Tom");
         }
 
-        else if ( num = 3 ) {
+        else if ( num == 3 ) {
             System.out.println("Paul");
         }
 
