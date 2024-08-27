@@ -14,7 +14,7 @@ public class Main {
             System.out.println("odd");
         }
 
-        if ( a%2 == 0 ) {
+        if ( b%2 == 0 ) {
             System.out.println("even");
         }
 
