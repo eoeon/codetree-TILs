@@ -6,15 +6,15 @@ public class Main {
 
         int n = sc.nextInt();
 
-        if ( n > 3000 ) {
+        if ( n >= 3000 ) {
             System.out.println("book");
         }
 
-        else if ( n > 1000 ) {
+        else if ( n >= 1000 ) {
             System.out.println("mask");
         }
 
-        else if ( n > 500 ) {
+        else if ( n >= 500 ) {
             System.out.println("pen");
         }
 
