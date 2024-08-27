@@ -10,7 +10,7 @@ public class Main {
             System.out.println("A");
         }
 
-        if ( a%2 = 0 ) {
+        if ( a%2 == 0 ) {
             System.out.println("B");
         }
     }
