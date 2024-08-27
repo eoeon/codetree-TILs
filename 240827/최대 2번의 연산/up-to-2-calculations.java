@@ -11,7 +11,7 @@ public class Main {
         }
 
         if ( a%2 == 1 ) {
-            a = (a+5)/2;
+            a = (a+1)/2;
         }
 
         System.out.println(a);
