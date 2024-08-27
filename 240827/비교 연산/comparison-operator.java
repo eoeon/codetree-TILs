@@ -11,7 +11,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a > b ){
@@ -19,7 +19,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a <= b ){
@@ -27,7 +27,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a < b ){
@@ -35,7 +35,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a >= b ){
@@ -43,7 +43,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a == b ){
@@ -51,7 +51,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
 
         if ( a !== b ){
@@ -59,7 +59,7 @@ public class Main {
         }
 
         else {
-            System.out.println("0")
+            System.out.println("0");
         }
     }
 }
