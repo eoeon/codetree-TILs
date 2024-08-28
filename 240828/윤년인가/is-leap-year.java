@@ -12,6 +12,10 @@ public class Main {
                     System.out.print("false");
                 }
 
+                else if ( y % 100 == 0 && y % 400 != 0 ) {
+                    System.out.print("false");
+                }
+
                 else {
                     System.out.print("true");
                 }
