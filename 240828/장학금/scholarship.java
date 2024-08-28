@@ -6,7 +6,7 @@ public class Main {
 
         int mS = sc.nextInt(), mH = sc.nextInt();
 
-        if ( mS < 90 ) {
+        if ( mS < 90 && mH < 90 ) {
             System.out.print("0");
         }
 
