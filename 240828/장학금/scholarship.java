@@ -14,7 +14,7 @@ public class Main {
             System.out.print("100000");
         }
 
-        else ( mH >= 90 ) {
+        else if ( mH >= 90 ) {
             System.out.print("50000");
         }
 
