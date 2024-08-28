@@ -6,8 +6,15 @@ public class Main {
 
         int y = sc.nextInt();
 
-        if ( (y % 4 == 0) || (y % 100 == 0 && y >= 400) ) {
-            System.out.print("true");
+        if (y % 4 == 0) 
+
+                if (y % 100 == 0 && y < 400) {
+                    System.out.print("false");
+                }
+
+                else {
+                    System.out.print("true");
+                }
         }
 
         else {
