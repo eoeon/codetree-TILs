@@ -11,7 +11,7 @@ public class Main {
         for ( i = 1; i <= 100; i++ ) {
             sumVal += i;
 
-            if ( sumVal > n ) {
+            if ( sumVal >= n ) {
                 break;
             }
         }
